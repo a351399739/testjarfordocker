@@ -12,7 +12,7 @@ public class SampleController {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Hello World!201702131155";
+        return "Hello World!201702131539";
     }
 
     public static void main(String[] args) throws Exception {
